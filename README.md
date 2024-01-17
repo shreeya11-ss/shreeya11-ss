@@ -2,11 +2,12 @@
 <h1 align="center">Hi 👋, I'm Shreeya Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <div align="center">
-🌱 I’m currently learning **Web Development**
+  
+🌱 I’m currently learning **JavaScript**
 
 👯 I’m looking to collaborate on **Android Development**
 
-💬 Ask me about **C,Java,MySQl**
+💬 Ask me about **Frontend Web Dev**
 
 📫 How to reach me **shreeyasharma077@gmail.com**
 </div>
