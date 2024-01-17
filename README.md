@@ -6,14 +6,14 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreeya11-ss" alt="shreeya11-ss" /></a> </p>
 <div align="center">
 
-- 🌱 I’m currently learning **Web Development**
+🌱 I’m currently learning **Web Development**
 
-- 👯 I’m looking to collaborate on **Android Development**
+ 👯 I’m looking to collaborate on **Android Development**
 
-- 💬 Ask me about **C,Java,MySQl**
+ 💬 Ask me about **C,Java,MySQl**
 
-- 📫 How to reach me **shreeyasharma077@gmail.com**
-- </div>
+ 📫 How to reach me **shreeyasharma077@gmail.com**
+ </div>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
