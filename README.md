@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **shreeyasharma077@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
@@ -20,4 +20,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreeya11-ss&show_icons=true&locale=en" alt="shreeya11-ss" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreeya11-ss&" alt="shreeya11-ss" /></p>
+
