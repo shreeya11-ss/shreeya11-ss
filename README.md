@@ -1,14 +1,15 @@
 
 <h1 align="center">Hi 👋, I'm Shreeya Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<div align="center">
+🌱 I’m currently learning **Web Development**
 
-- 🌱 I’m currently learning **Web Development**
+👯 I’m looking to collaborate on **Android Development**
 
-- 👯 I’m looking to collaborate on **Android Development**
+💬 Ask me about **C,Java,MySQl**
 
-- 💬 Ask me about **C,Java,MySQl**
-
-- 📫 How to reach me **shreeyasharma077@gmail.com**
+📫 How to reach me **shreeyasharma077@gmail.com**
+</div>
 
 
 <p align="center">
