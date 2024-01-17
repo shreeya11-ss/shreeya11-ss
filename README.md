@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">I'm Shreeya Sharma , A CSE student rom OP Jindal University<br><br>- 🔭 I’m working as a Student<br>- 📚 I'm currently learning Web Development<br>- ⚡ In my free time I Learn about new technologies.</p>
+<p align="center">I'm Shreeya Sharma , A CSE student from OP Jindal University<br><br>- 🔭 I’m working as a Student<br>- 📚 I'm currently learning Web Development<br>- ⚡ In my free time I Learn about new technologies.</p>
 
 ###
 
