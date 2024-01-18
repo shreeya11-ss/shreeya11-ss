@@ -5,9 +5,9 @@
   
 🌱 I’m currently learning **JavaScript**
 
-👯 I’m looking to collaborate on **Android Development**
+👯 I’m looking to collaborate on **FWeb Dev Projects**
 
-💬 Ask me about **Frontend Web Dev**
+💬 Ask me about **HTML,CSS,JS,C,JAVA**
 
 📫 How to reach me **shreeyasharma077@gmail.com**
 </div>
