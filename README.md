@@ -5,7 +5,7 @@
   
 🌱 I’m currently learning **JavaScript**
 
-👯 I’m looking to collaborate on **FWeb Dev Projects**
+👯 I’m looking to collaborate on **Web Dev Projects**
 
 💬 Ask me about **HTML,CSS,JS,C,JAVA**
 
